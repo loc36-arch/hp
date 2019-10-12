@@ -18,6 +18,9 @@ On success response content:
 A JSON string providing the data requested:
 
 {
+
+ServiceID: "{service id}"
+Version: "vX.X.X"
 Response: "{response code}",
 Details: "Some text further describing the document.",
 Data: {
@@ -29,6 +32,7 @@ Data: {
 	},
 	...
 }
+
 }
 
 Possible values of "response code":
