@@ -1,2 +1,1 @@
-# hp
-History Provider
+# hp: History Provider
